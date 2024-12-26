@@ -295,11 +295,6 @@ Trends.html
 
 
 ## OUTPUT
-c:\Users\admin\Pictures\Screenshots\1.png
-c:\Users\admin\Pictures\Screenshots\2.png
-c:\Users\admin\Pictures\Screenshots\3.png 
-c:\Users\admin\Pictures\Screenshots\4.png 
-c:\Users\admin\Pictures\Screenshots\5.png
 
 
 
